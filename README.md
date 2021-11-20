@@ -12,8 +12,6 @@ I love mentor people,
 
 - 🔭 I’m currently working at Platzi
 
-- 📖  I’m currently learning AI and ML on Platzi
-
 
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC83?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
