@@ -13,6 +13,10 @@ I love mentor people,
 - 🔭 I’m currently working at Platzi
 
 
+I love photography 📷 , motorcycles 🏍️ and runing 🏃‍♂️ 
+
+
+
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC83?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
