@@ -19,7 +19,7 @@ Role: Senior Sofware desinger
 
 🔭 Last job:
   
-  Globant
+  Globant for 5 years
   
   Role: Tech Lead + Senior Sofware desinger + Gatekeeper
  
