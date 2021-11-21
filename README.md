@@ -5,7 +5,7 @@ Mobile application developer since 2013. I have worked in Java and Kotlin on nat
 
 I have followed Scrum, EX, kanban,  good development practices such as SOLID, Clean Code, Clean Architecture C.I and C.D.
 
-I love mentor people,photography 📷 , motorcycles 🏍️ and runing 🏃‍♂️ 
+I love mentoring people, photography 📷 , motorcycles 🏍️ and running 🏃‍♂️
 
 📆  Book a mentoring setion with me in [ADPList](https://adplist.org/mentors/andres-david-serrano)
 
