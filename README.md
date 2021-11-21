@@ -3,7 +3,7 @@
 
 Mobile application developer since 2013. I have worked in Java and Kotlin on native android apps (I'm a fan of Kotlin). 
 
-I have followed Scrum and good development practices such as SOLID, Clean Code, and Clean Architecture C.I and C.D.
+I have followed Scrum, EX, Kamba,  good development practices such as SOLID, Clean Code, Clean Architecture C.I and C.D.
 
 I love mentor people,photography 📷 , motorcycles 🏍️ and runing 🏃‍♂️ 
 
