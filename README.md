@@ -1,6 +1,5 @@
 ### Hi there 👋 ! My name is Andres David Serrano, I'm from Colombia 🇨🇴
 
-
 I'm mobile application developer since 2013. I have worked in Java and Kotlin on native android apps (I'm a fan of Kotlin). 
 
 I have followed Scrum, EX, kanban,  good development practices such as SOLID, Clean Code, Clean Architecture C.I and C.D.
@@ -45,5 +44,6 @@ Role: Senior Sofware desinger
 
 
 
+<img src="https://komarev.com/ghpvc/?username=andresserranodev&label=Profile%20views&color=0e75b6&style=flat" alt="andresserranodev"/> 
 
 
