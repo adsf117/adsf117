@@ -13,17 +13,7 @@ I love mentoring people, photography 📷 , motorcycles 🏍️ and running 🏃
 🔭  I’m currently working at:
 
 Globant
-
-![Platzi](https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=12203D&logo=Platzi&logoColor=98CA3F&label=)
-
 Role: Android Mobile Developer, Architect
-
-
-🔭 Last job:
-  
-  Globant for 5 years
-  
-  Role: Tech Lead + Senior Sofware desinger + Gatekeeper
  
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC83?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
