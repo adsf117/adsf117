@@ -12,9 +12,12 @@ I love mentoring people, photography 📷 , motorcycles 🏍️ and running 🏃
 
 🔭  I’m currently working at:
 
+Globant
+
 ![Platzi](https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=12203D&logo=Platzi&logoColor=98CA3F&label=)
 
-Role: Senior Sofware desinger
+Role: Android Mobile Developer, Architect
+
 
 🔭 Last job:
   
