@@ -25,7 +25,7 @@ Role: Android Mobile Developer, Architect
 
 ## Find me at:
 
-[![Instagram](https://img.shields.io/badge/@andres.serrano.dev-B302BC?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/andres.david.sv/)
+[![Instagram](https://img.shields.io/badge/@andres.serrano.sv-B302BC?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/andres.david.sv/)
 
 [![LinkedIn](https://img.shields.io/badge/Andres_Serrano-0095D5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andres-david-serrano-vivas-7b01059b/)
 
