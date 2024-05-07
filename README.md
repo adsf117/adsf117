@@ -1,12 +1,12 @@
 ### Hi there 👋 ! My name is Andres David Serrano, I'm from Colombia 🇨🇴
 
-I'm mobile application developer since 2013. I have worked in Java and Kotlin on native android apps (I'm a fan of Kotlin). 
+I have been a mobile application developer since 2013. I have worked in Java and Kotlin on native Android apps (I'm a fan of Kotlin). 
 
-I have followed Scrum, EX, kanban,  good development practices such as SOLID, Clean Code, Clean Architecture C.I and C.D.
+I have followed Scrum, EX, kanban,  and good development practices such as SOLID, Clean Code, and Clean Architecture C.I and C.D.
 
 I love mentoring people, photography 📷 , motorcycles 🏍️ and running 🏃‍♂️
 
-📆  Book a mentoring setion with me in [ADPList](https://adplist.org/mentors/andres-david-serrano)
+📆  Book a mentoring session with me in [ADPList](https://adplist.org/mentors/andres-david-serrano)
 
 [![Click Here to book](https://img.shields.io/badge/Click_Here_to_book-0095D5?style=for-the-badge&logo=Google+Calendar&logoColor=white&labelColor=101010)](https://adplist.org/mentors/andres-david-serrano)
 
