@@ -1,5 +1,6 @@
 ### Hi there 👋 ! My name is Andres David Serrano, I'm from Colombia 🇨🇴
 
+I'm passionate about continuous learning and unlearning to improve, fix, and create all kinds of things.
 I have been a mobile application developer since 2013. I have worked in Java and Kotlin on native Android apps (I'm a fan of Kotlin). 
 
 I have followed Scrum, EX, kanban,  and good development practices such as SOLID, Clean Code, and Clean Architecture C.I and C.D.
@@ -27,12 +28,15 @@ Role: Android Mobile Developer, Architect
 
 [![Instagram](https://img.shields.io/badge/@andres.serrano.sv-B302BC?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/andres.david.sv/)
 
-[![LinkedIn](https://img.shields.io/badge/Andres_Serrano-0095D5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andres-david-serrano-vivas-7b01059b/)
+[![LinkedIn](https://img.shields.io/badge/Andres_Serrano-0095D5?style=for-the-badge&logo=aboutdotme&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andres-david-serrano-vivas-7b01059b/)
 
 
-## Support me: 
+## AI Course Certificates: 
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-222222?style=for-the-badge&logo=Buy+Me+A+Coffee&logoColor=FFDD00&labelColor=101010)](https://www.buymeacoffee.com/andres.dev)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=FF6B00)]([https://www.linkedin.com/in/andres-david-serrano-vivas-7b01059b/](https://www.credly.com/users/andres.serrano))
+
+[![Google Cloud Profile](https://img.shields.io/badge/Andres_Serrano-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4)](https://www.cloudskillsboost.google/public_profiles/410136e5-9774-4d84-9ac1-5b3c9b0c9f70)
+
 
 
 
